@@ -1,4 +1,4 @@
-# Zpass Js Version
+# Zpass Python Version
 
 Zpass is password generator
 
